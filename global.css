@@ -2,24 +2,3 @@ body {
   margin: 0;
   line-height: normal;
 }
-
-:root {
-  /* fonts */
-  --font-lato: Lato;
-  --font-sedan: Sedan;
-
-  /* font sizes */
-  --font-size-xl: 1.25rem;
-  --font-size-base: 1rem;
-  --font-size-11xl: 1.875rem;
-  --font-size-lg: 1.125rem;
-  --font-size-5xl: 1.5rem;
-
-  /* Colors */
-  --color-white: #fff;
-  --color-gray-100: rgba(255, 255, 255, 0.8);
-  --color-gray-200: rgba(255, 255, 255, 0.7);
-
-  /* Paddings */
-  --padding-8xl: 1.687rem;
-}
